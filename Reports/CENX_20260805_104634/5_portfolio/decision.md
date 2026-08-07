@@ -1,0 +1,9 @@
+**Rating**: Sell
+
+**Executive Summary**: Liquidate any existing long exposure to CENX immediately and initiate a short position at current levels around $46.21, keeping position sizing conservative to moderate due to the stock's high beta. Place a strict stop-loss at $48.10, just above the 200-day SMA resistance level, to protect against sudden upward volatility or pre-market earnings surprises. Target downside realization toward the recent double-bottom support levels in the $41.50 to $42.60 range over the near term.
+
+**Investment Thesis**: The bullish narrative surrounding CENX, centered on a cheap forward P/E of 4.32 and a robust cash position, is severely distorted by a one-time $287.9 million paper gain from the Hawesville asset sale. Operationally, the company is an upstream price-taker experiencing negative free cash flow, with Q1 capital expenditures of $74.8 million heavily outpacing operating cash flows of $68.4 million. The highly touted $19 billion AI data center lease at the Hawesville site provides zero direct financial benefit to CENX, as management already liquidated the property for a flat $200 million. The company faces significant margin compression risks heading into Q2 earnings due to high domestic energy costs and expensive capacity expansions at its Mt. Holly facility. Technically, the stock just suffered a violent rejection at its 200-day simple moving average of $47.62, signaling a failed breakout and a classic bull trap. While the stock's high beta (1.998) and average true range ($2.41) warrant strict risk management, conservative position sizing and a tight stop above major resistance optimally position the portfolio to capitalize on this cyclical top.
+
+**Price Target**: 41.5
+
+**Time Horizon**: 1-3 months

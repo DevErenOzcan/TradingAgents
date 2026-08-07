@@ -1,0 +1,9 @@
+**Rating**: Buy
+
+**Executive Summary**: Initiate a high-conviction Buy on TSM with an initial half-position at current levels around $417.17, adding the remainder on a pullback to the $403.00-$412.00 zone or a high-volume breakout above the 50-day SMA at $425.37. Maintain a strict stop-loss at $390.00 to protect capital against a breakdown of volume-weighted and psychological support levels. Take partial profits at $443.58 while leaving a runner to target the structural June high of $477.57 over a multi-month swing horizon.
+
+**Investment Thesis**: TSM demonstrates exceptional fundamental strength anchored by its monopolistic pricing power in sub-5nm silicon and a fortress balance sheet boasting $79.2 billion in net cash and $9.0 billion in quarterly free cash flow. While the conservative camp correctly identifies the massive capital intensity—highlighted by $15.5 billion in Q2 capex—and the structural ceiling of CoWoS advanced packaging bottlenecks extending past 2027, these factors ultimately solidify a multi-year guaranteed backlog and enforce unyielding pricing power over massive clients like Apple and MediaTek. Additionally, the perceived valuation risk is largely a mirage caused by a database error that ignores the 1-to-5 ADR ratio; adjusting for this reveals an attractive true P/B ratio between 10.76 and 17.40, alongside a forward P/E of 19.31. Despite near-term technical resistance at the 50-day SMA of $425.37 and persistent geopolitical concerns regarding Taiwan, the massive 21.7 million share capitulation volume on July 29, a bullish MACD crossover, and strategic insider buying signal that the structural bottom is firmly established. Executing a structured, staggered entry mitigates the risk of short-term volatility while positioning the portfolio to capture the immense asymmetric upside of a deeply discounted semiconductor monopoly.
+
+**Price Target**: 477.57
+
+**Time Horizon**: 3-6 months

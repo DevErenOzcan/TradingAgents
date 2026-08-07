@@ -1,0 +1,8 @@
+**Recommendation**: Underweight
+
+**Rationale**: Hey team, let's break down the debate on QNT. The bull makes an impassioned case for buying the recent 43% dip, pointing to a massive $2.27 billion cash balance, a 'minority interest shield' protecting common shareholders from operating losses, and a validating R&D partnership with Rolls-Royce. However, the bear completely dismantles this narrative. The bear rightly points out that common shareholders actually only lay claim to roughly 12.5% of the consolidated equity, meaning that 'fortress' balance sheet largely belongs to institutional partners like Honeywell and SoftBank, not the public stock. Furthermore, the valuation is simply indefensible—trading at 780x trailing sales while revenue just cratered 72% year-over-year. Combine that with a low-volume technical bounce facing massive overhead resistance at $63, and the bear's argument for a value trap easily carries the day. We need to play this defensively.
+
+**Strategic Actions**: 1. Restrict New Capital: Do not initiate new long positions or allocate fresh capital to QNT at current levels.
+2. Trim on Strength: Treat any low-volume relief rallies as selling opportunities. Look to actively trim existing exposure if the price approaches the 10 EMA at $53.65 or the heavy 50/200 SMA resistance zone at $63.18.
+3. Downside Protection: For any remaining core position, enforce a strict stop-loss below the recent capitulation low of $47.00 to protect against further structural breakdowns.
+4. Position Sizing: Shift the portfolio weight to Underweight, reflecting the severe valuation risks and the need to see scalable, recurring commercial revenue before committing further capital.

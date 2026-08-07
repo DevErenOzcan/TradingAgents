@@ -1,0 +1,8 @@
+**Recommendation**: Sell
+
+**Rationale**: The bear decisively won this debate, particularly by exposing a massive accounting flaw in the bull's thesis: the $147.5 million in deferred revenue is not an 'additional cash shield,' but a liability for future work whose cash is already baked into the $654 million balance. The bull's narrative of 'software-like scaling' falls apart when you confront the 57.5% YoY collapse in Q1 revenue and the physical reality that human clinical trials do not scale like AWS servers. Slashing R&D by 32% while advancing expensive Phase 2 trials points to pipeline triage and cash preservation, not exponential efficiency. Furthermore, the stock's severe relative weakness during a historic AI and broad market rally is a glaring red flag. Buying a low-volume technical bounce directly ahead of a binary earnings event tomorrow morning is an uncompensated gamble, especially since a pre-market gap-down would completely blow past the bull's $2.95 stop-loss with catastrophic slippage.
+
+**Strategic Actions**: 1. Liquidate any existing long exposure to RXRX immediately; do not hold through tomorrow morning's binary Q2 earnings call.
+2. For aggressive accounts, establish a short position in the $3.28 - $3.31 range as it tests the 50-day SMA resistance, keeping position sizes strictly limited due to earnings volatility.
+3. Target a downside breakdown to $2.65, representing a failure of the multi-year support floor.
+4. Risk Management: Do not rely on standard stop-losses through the overnight pre-market session. Post-earnings, cover short positions only if the stock cleanly breaks and holds above the 200-day SMA ($3.88) on massive, institutional-grade volume.

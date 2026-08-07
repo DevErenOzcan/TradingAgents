@@ -1,0 +1,9 @@
+**Rating**: Sell
+
+**Executive Summary**: Initiate a short position in KOPN at current levels around $3.52 with moderate position sizing to account for retail-driven microcap volatility. Set a stop-loss at the VWMA of $3.75 to provide sufficient breathing room against the stock's high average true range, avoiding the overly tight $3.61 level. The immediate downside target is a breakdown below the 200-day SMA at $3.29, with an ultimate target of $1.68 over a 3-6 month time horizon.
+
+**Investment Thesis**: The bearish thesis for KOPN exposes a severe fundamental disconnect between its 18-20x trailing sales valuation and its deteriorating core operations. Q1 2026 revenue collapsed by 32.5% year-over-year to just $7.1 million, with gross margins compressing to 21%, rendering the $56 million full-year guidance—which requires an improbable 130% sequential revenue ramp—effectively unattainable. Moreover, the defense contract narrative masks a structural cash trap: $25.3 million of the company's liquidity is locked up as restricted cash for performance bonds. This leaves only $34 million in unencumbered cash to cover a $15-$17 million annual operational burn rate, practically guaranteeing further shareholder dilution for a company that has already ballooned its float from 112 million to over 186 million shares in under three years. While the conservative and neutral camps rightfully highlight the statistical danger of a tight 9-cent stop-loss given the stock's 3.55 beta and 39-cent average true range, their proposed inaction misses a highly asymmetric short opportunity. By moderating the position size and widening the stop-loss to the $3.75 VWMA, the trade accommodates intraday noise while positioning for a massive repricing once the market digests that KOPN's prior profitability was merely a mirage driven by an $11.1 million one-time asset sale.
+
+**Price Target**: 1.68
+
+**Time Horizon**: 3-6 months
