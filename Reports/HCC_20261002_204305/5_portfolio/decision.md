@@ -1,0 +1,7 @@
+**Rating**: Buy
+
+**Executive Summary**: Initiate a full-sized long position in HCC within the $89.78 to $90.30 range, anticipating an imminent reclaim of the 10-day EMA and 200-day SMA. Place a hard stop-loss at $83.30 to protect against downside volatility, positioning it safely below the $88.00 double-bottom support. Look to take partial profits at $98.20 and trail the remaining position toward a final target of $105.00.
+
+**Investment Thesis**: The bullish argument successfully overcomes conservative concerns regarding cyclical macroeconomic risks and freight margin squeezes. HCC's Blue Creek project is transitioning from a heavy capital expenditure phase into a massive cash-flow generator, as evidenced by a $103 million positive Free Cash Flow inflection in Q2. Furthermore, concerns regarding liquidity and insolvency are thoroughly dismantled by the company's fortress balance sheet, which boasts $322.5 million in cash against only $269 million in debt and a stellar 3.93x current ratio. On the technical front, a dramatic volume dry-up to 153,000 shares coupled with a clear daily RSI bullish divergence strongly indicates selling exhaustion rather than a buyer's strike. These idiosyncratic, cash-harvesting fundamentals provide a highly asymmetric risk-reward profile that eclipses broader cyclical fears, making a full-sized entry at current levels highly compelling.
+
+**Price Target**: 105.0
