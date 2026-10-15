@@ -130,6 +130,7 @@ MODEL_OPTIONS: ProviderModeOptions = {
             ("Custom model ID", "custom"),
         ],
         "deep": [
+            ("Gemini 4 Argon - Latest, most capable, 1M context", "gemini-4-argon"),
             ("Gemini 3.8 Flash - Most capable Flash, 1M context", "gemini-3.8-flash"),
             ("Gemini 3.1 Pro - Reasoning-first, complex workflows (preview)", "gemini-3.1-pro-preview"),
             ("Gemini 3.5 Flash - Previous Flash, strong agentic + coding", "gemini-3.5-flash"),
