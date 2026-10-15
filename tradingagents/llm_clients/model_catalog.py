@@ -125,6 +125,7 @@ MODEL_OPTIONS: ProviderModeOptions = {
     "google": {
         "quick": [
             ("Gemini 3.8 Flash - Most capable Flash", "gemini-3.8-flash"),
+            ("Gemini 4 Argon - Most capable, higher cost", "gemini-4-argon"),
             ("Gemini 3.5 Flash Lite - Fast and cost-efficient", "gemini-3.5-flash-lite"),
             ("Gemini 3.1 Flash Lite - Most cost-efficient", "gemini-3.1-flash-lite"),
             ("Custom model ID", "custom"),
